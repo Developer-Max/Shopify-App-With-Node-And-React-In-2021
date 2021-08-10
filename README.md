@@ -1,1 +1,1 @@
-So for the youtube video https://www.youtube.com/watch?v=swAHO74-3t4 shopify.dev no longer has the tutorial for a lot of the files so I did the long task of copying everything down everyone can have access without copying it as I did.
+So for the youtube video https://www.youtube.com/watch?v=swAHO74-3t4 and https://www.youtube.com/watch?v=HrCTkWUSfAM shopify.dev no longer has the tutorial for a lot of the files so I did the long task of copying everything down everyone can have access without copying it as I did.
